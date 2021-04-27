@@ -20,7 +20,7 @@ depends: [
   "dune" {>= "2.8"}
   "csexp" {>= "1.4.0"}
   "stdune-unstable" {= version}
-  "ocaml" {>= "4.08"}
+  "ocaml" {>= "4.07"}
   "odoc" {with-doc}
 ]
 dev-repo: "git+https://github.com/ocaml/dune.git"
